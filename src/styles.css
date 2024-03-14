@@ -54,6 +54,10 @@ button:hover {
     font-weight: bolder;
 }
 
+.banner {
+    text-align: center;
+}
+
 
 
 /* * {
@@ -79,9 +83,7 @@ header {
 
 
 
-.banner {
-    text-align: center;
-}
+
 
 
 
