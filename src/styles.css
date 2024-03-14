@@ -38,6 +38,15 @@ button:hover {
     
 }
 
+.story h1 {
+    padding: 10px;
+}
+
+.story h2 {
+    padding: 10px;
+    padding-left: 20px;
+}
+
 /* * {
     box-sizing: border-box;
     margin: 0;
@@ -64,14 +73,7 @@ header {
     text-align: center;
 }
 
-.story h1 {
-    padding: 10px;
-}
 
-.story h2 {
-    padding: 10px;
-    padding-left: 20px;
-}
 
 .footer-col {
     width: 25%;
