@@ -60,8 +60,14 @@ button:hover {
 }
 
 .fe-box img {
-    width: 100%;
+    width: 70%;
     margin: 10px;
+}
+
+.ratings span {
+    color: grey;
+    cursor: pointer;
+
 }
 
 
