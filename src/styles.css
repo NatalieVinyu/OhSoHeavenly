@@ -54,10 +54,15 @@ button:hover {
     font-weight: bolder;
 }
 
-.banner {
+#feature .fe-box {
     text-align: center;
+    padding: 25px 15px;
 }
 
+.fe-box img {
+    width: 100%;
+    margin: 10px;
+}
 
 
 /* * {
@@ -78,13 +83,6 @@ header {
 .logo {
     cursor: pointer;
 }
-
-
-
-
-
-
-
 
 
 .footer-col {
