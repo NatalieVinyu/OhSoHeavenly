@@ -49,9 +49,15 @@ button:hover {
     padding: 10px;
 }
 
-.story h2 {
+.story h2, .link h2 {
     color: rgb(242, 178, 205);
     font-weight: bolder;
+}
+
+.link h2 {
+    text-decoration: underline;
+    font-size: 25px;
+    text-align: center;
 }
 
 #feature .fe-box {
