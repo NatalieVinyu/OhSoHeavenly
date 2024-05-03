@@ -23,6 +23,11 @@ li, a, button {
     text-decoration: none;
 }
 
+.banner {
+    display: flex;
+    justify-content: center;
+}
+
 hr {
     border: 1px solid rgb(238, 54, 186);
     width: 70%;
